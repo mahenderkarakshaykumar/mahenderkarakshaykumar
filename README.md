@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-2f2cfa22-6d62-4a7c-b7f5-1a6f4b9f24dd.gif" width="200"/>
+<img src="https://mktcix.com/wp-content/uploads/2025/02/mktcix-gif4.gif" width="500"/>
 
 # Hi, I'm Akshay Kumar Mahenderkar 👋
-
 **Investment Research Associate • Financial Modeling • Market Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahenderkar-akshay-kumar/)
