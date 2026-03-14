@@ -100,7 +100,7 @@ Download my resume here:
 
 [![LinkedIn](https://img.shields.io/badge/_LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahenderkar-akshay-kumar/)
 [![Email](https://img.shields.io/badge/_Email-D14836?style=for-the-badge&logo=gmail)](mailto:mahenderkarakshaykumar@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/_+91_8801680194-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/918688791352?text=Hi%20Akshay!)
+[![WhatsApp](https://img.shields.io/badge/_+91_8801680194-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/918801680194?text=Hi%20Akshay!)
 
 </div>
 
